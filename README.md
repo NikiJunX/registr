@@ -1,1 +1,1 @@
-# registr
+# regist
